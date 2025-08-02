@@ -39,7 +39,4 @@ He also talked about the support systems available for students and encouraged u
 
 # OVERALL DAY
 The first day of our journey at GNDEC concluded on a high note—full of inspiration, warmth, and guidance.
-With valuable insights from experienced leaders and motivating words from our seniors and mentors, it was a day that truly set the tone for the exciting path ahead. 
-# OVERALL DAY
-The first day of our journey at GNDEC concluded on a high note—full of inspiration, warmth, and guidance.
 With valuable insights from experienced leaders and motivating words from our seniors and mentors, it was a day that truly set the tone for the exciting path ahead.
