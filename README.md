@@ -8,11 +8,13 @@
 His words were not only motivating but also reminded us of the strong legacy and support system that GNDEC provides to its students, even long after graduation.
 - **Shri Ravinder Garg**  Chief Engineer, Municipal Corporation, Ludhiana,His journey and achievements served as a source of inspiration for all the students, especially those aspiring to contribute to public infrastructure and civil services.
   
-# Highlights
+# Highlights of the induction program
+![Image](https://github.com/user-attachments/assets/884e58ae-67de-462a-820b-8b80e2b56864)
 - Welcomed by **Mr. Harsimran Singh Jaggi**
 - He gave us a warm welcome and talked about GNDEC’s journey, its values, and what the college stands for. He also told us about the different facilities, academic support, research chances, and how the college focuses on helping students to grow.
   
 ## Introduction to college achievements and legacy:
+![Image](https://github.com/user-attachments/assets/ce5a11ad-0e57-4d14-9bdf-bec6b4fd9dc3)
   - Celebrating **70th Golden Jubilee**
   - Awarded **NAAC 'A' Grade**   
   - **Civil Engineering** started in **1956**
