@@ -97,9 +97,63 @@ After the lectures, our **seniors interacted with us** and introduced us to the 
 The seniors explained that the **Cosmic Club** is a platform where students can explore their creative, technical, and leadership skills. The club conducts regular workshops, coding competitions, project exhibitions, technical fests, and fun cultural events. It is a place to **network, collaborate, innovate, and grow** beyond the classroom. They also gave us insights into the induction activities planned for the coming days, which will include team-building games, tech tasks, and interactive events designed to boost our confidence and bonding. The seniors were very friendly and encouraging, which made us feel truly welcomed and excited to be a part of the GNE family.
 
 ## ✅ Summary
-
 Day 3 focused on **intellectual growth, ethical development, and community building**. The powerful lectures by **Dr. Jaswinder Singh** and **Dr. Priya Darshini** helped us understand how to become thoughtful engineers with values. The Cosmic Club introduction added an exciting layer to the day, reminding us that college life is also about creativity, collaboration, and contribution.
 
+# 🌟 Day 4 - Induction Program (Date: [04-08-2025])
+
+## 🕘 9:30 AM – 10:30 AM | Professional English Communication Lecture
+**Instructor:** Professor Nisha  
+**Location:** Room 107  
+**Department:** Exclusive for ITC (Information Technology)
+
+The day began with our **English lecture** conducted by **Professor Nisha**, specifically for the ITC students. The session was held in Room 107.  
+In this lecture, each student was given the opportunity to **introduce themselves** in front of the class. It was a great activity to **build confidence and improve communication skills**.  
+This session helped us know more about our classmates and also allowed us to express ourselves freely.  
+Professor Nisha was very kind and supportive, making sure everyone felt comfortable while speaking.
+
+## 🕥 10:30 AM – 11:30 AM | Chemistry Lecture  
+**Instructor:** Professor Rajvir Kaur  
+**Location:** Room 107  
+**Department:** ITC
+
+After the English lecture, we stayed in the same room for our **Chemistry lecture** with **Professor Rajvir Kaur**.  
+She started by talking about the **importance of Chemistry in engineering** and clarified that we won’t be studying the same 11th and 12th syllabus.  
+Instead, we'll focus on **new and simplified concepts**, making it easier to understand for everyone.She highlighted that only **basic concepts from Class 11 & 12** might be referred to, but the approach in college will be more conceptual and application-based. Towards the end, she introduced us to the topic of **Nernst Equation** from Electrochemistry and encouraged us to go through it as a starting point.  
+Her teaching was **clear, engaging, and very motivating** for beginners.
+
+## 🕦 11:30 AM – 12:30 PM | Break Time  
+We had a one-hour break to relax and refresh ourselves before the next session.
+
+## 🕧 12:30 PM – 2:30 PM | Expert Lecture on *Universal Human Values – 2*  
+**Speaker:** Dr. Darshi Madam  
+**Location:** Auditorium  
+**For:** students IT ANS CS BRANCH
+
+After the break, we gathered in the **auditorium** for an **expert lecture on Universal Human Values – 2** by **Dr. Darshi Madam**.  
+In today’s session, we learned that **real happiness** comes from **inner harmony**, not from temporary excitement like food, entertainment, or praise.
+Dr. Darshi Ma'am explained that we all have three key needs:
+- **Right Understanding**
+- **Good Relationships**
+- **Physical Facilities**
+Among these, **right understanding** is the most important.
+Our thoughts are shaped by:
+- **Preconditioning** (society’s influence)
+- **Sensations** (physical pleasure)
+- **Natural Acceptance** (what feels truly right)
+When guided by natural acceptance, we stay **peaceful and happy**.  
+But if driven only by preconditioning or sensation, we may feel **confused or unhappy**.
+
+## 🕝 2:30 PM – 3:30 PM | Cosmic Club Session  
+**Conducted By:** Our Seniors  
+**Location:** Auditorium
+
+To wrap up the day, we attended a **Cosmic Club session**, which was once again held in the auditorium.  
+This session was **organized by our seniors**, where they introduced us to the **Cosmic Club**—a student-driven club that focuses on **creativity, curiosity, and collaboration**. We were informed about the various **events, workshops, and learning opportunities** offered by the club throughout the semester.  
+The seniors were very friendly and shared their personal experiences, making us feel excited about being a part of such an engaging student community.  
+It gave us a clear view of **how we can grow beyond academics** by being involved in college clubs and activities.
+
+✅ **Overall Reflection:**
+Day 4 was a **perfect blend of academic learning and value-based growth**. From building communication skills to understanding our subjects better, and finally learning about human values and clubs—each session added something meaningful to our journey as freshers.
 
 
 
