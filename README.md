@@ -135,7 +135,9 @@ Dr. Darshi Ma'am explained that we all have three key needs:
 - **Right Understanding**
 - **Good Relationships**
 - **Physical Facilities**
+  
 Among these, **right understanding** is the most important.
+
 Our thoughts are shaped by:
 - **Preconditioning** (society’s influence)
 - **Sensations** (physical pleasure)
