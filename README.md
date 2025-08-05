@@ -101,7 +101,7 @@ Day 3 focused on **intellectual growth, ethical development, and community build
 
 # 🌟 Day 4 - Induction Program (Date: [04-08-2025])
 
-## 🕘 9:30 AM – 10:30 AM | Professional English Communication Lecture
+##  9:30 AM – 10:30 AM | Professional English Communication Lecture
 **Instructor:** Professor Nisha  
 **Location:** Room 107  
 **Department:** Exclusive for ITC (Information Technology)
@@ -111,7 +111,7 @@ In this lecture, each student was given the opportunity to **introduce themselve
 This session helped us know more about our classmates and also allowed us to express ourselves freely.  
 Professor Nisha was very kind and supportive, making sure everyone felt comfortable while speaking.
 
-## 🕥 10:30 AM – 11:30 AM | Chemistry Lecture  
+##  10:30 AM – 11:30 AM | Chemistry Lecture  
 **Instructor:** Professor Rajvir Kaur  
 **Location:** Room 107  
 **Department:** ITC
@@ -156,6 +156,50 @@ It gave us a clear view of **how we can grow beyond academics** by being involve
 
 ✅ **Overall Reflection:**
 Day 4 was a **perfect blend of academic learning and value-based growth**. From building communication skills to understanding our subjects better, and finally learning about human values and clubs—each session added something meaningful to our journey as freshers.
+
+# 🌟 Induction Program - Day 5 Summary (05 August 2025)
+##  Date: 5th August 2025  
+
+## 🧮 9:30 AM – 10:30 AM: Mathematics Lecture  
+**📍 Room:** 107  
+**👩‍🏫 Faculty:** Prof. Sandeep Kaur  
+
+- The session began with a warm introduction by Prof. Sandeep Kaur.
+- She asked us to introduce ourselves by sharing our Class 12th percentage and Maths marks.
+- She introduced the topic of **Differential Equations**.
+  - Explained **basic equations**, **degree**, and **order** of a differential equation.
+  - Solved some simple examples on the board for better understanding.
+- It was a very helpful and concept-building session.
+
+
+## 👨‍💻 10:30 AM – 11:30 AM: P2P Lecture (Peer to Peer Session)  
+**📍 Room:** 107  
+**👨‍🎓 Conducted By:** Our seniors 
+
+- A helpful and interactive session focused on **C++ programming basics**.
+- The senior:
+  - Explained the **syntax**, **structure**, and **importance** of C++.
+  - Used real-life analogies to make it more engaging.
+  - Cleared beginner doubts with examples.
+- It was an interesting and beginner-friendly lecture that sparked curiosity about coding.
+
+
+##  11:30 AM – 12:30 PM: BEEE (Basic Electrical and Electronics Engineering) Lecture  
+** Room:** 107  
+** Faculty:** Prof. Sukpal Singh  
+
+- Prof. Sukpal Singh started with the **course overview**.
+- Discussed:
+  - **Syllabus coverage**.
+  - **Recommended books and reference materials**.
+  - **Assignment structure** and **internal marks**.
+  - Details about **mid-semester and end-semester exams**.
+- Also introduced some basic concepts that we will study in the upcoming lectures.
+
+
+## ✅ Summary:  
+Today was a productive and informative day. We explored three important subjects – Maths, Programming (C++), and BEEE. Each session gave a glimpse of what lies ahead in our curriculum and motivated us to stay consistent and curious.
+
 
 
 
