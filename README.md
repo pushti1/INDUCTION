@@ -196,10 +196,66 @@ Day 4 was a **perfect blend of academic learning and value-based growth**. From 
   - Details about **mid-semester and end-semester exams**.
 - Also introduced some basic concepts that we will study in the upcoming lectures.
 
-
 ## ✅ Summary:  
 Today was a productive and informative day. We explored three important subjects – Maths, Programming (C++), and BEEE. Each session gave a glimpse of what lies ahead in our curriculum and motivated us to stay consistent and curious.
 
+
+# 📅 Induction Day 6 Summary – GNDEC
+**Date:** 6th August 2025  
+
+##  9:30 AM – 10:30 AM | P2P Lecture – Room No. 109
+
+**Conducted by:** Seniors  
+**Topic:** Introduction to C++  
+**What was covered:**
+- Basics of C++
+- Variables
+- Functions
+- Condition statements (if-else)
+- Loops (for, while)
+- Basic C++ syntax
+
+## 10:30 AM – 11:30 AM | BEE (TRIPOLI) Lecture – Room No. 109
+**Instructor:** Prof. Sukpal Singh  
+**Topics Discussed:**
+- **Ohm’s Law**
+- **Kirchhoff’s Current Law (KCL)** & **Kirchhoff’s Voltage Law (KVL)**
+- Basic definitions:
+  - Conductor
+  - Conductance
+  - Resistance
+- **Difference** between Conductor, Conductance & Resistance  
+- All doubts were cleared very nicely.
+
+## 11:30 AM – 12:30 PM | **Break**
+
+## ⏰ 12:30 PM – 2:00 PM | Motivational Talk – Auditorium
+
+**Speaker:** Arvind Dhingra Sir  
+**Designation:** Director, STEP In-Charge, TAC  
+**Key Points:**
+- Shared his **journey as a GNE student**
+- Now holding a **good position** 
+- Talked about:
+  - His college life
+  - Importance of confidence
+  - Story of GNE and its culture
+- Very motivating and inspiring session
+
+##  2:00 PM – 4:00 PM | CML Program Introduction – Auditorium
+
+**Speaker:** Dr. Lakveer Singh Khannan  
+**Designation:** In-Charge, CML  
+**What he explained:**
+- Details about **CML Program**
+- How it helps students in:
+  - Web development
+  - App development
+  - Improving English & communication skills and many more activities..
+- Encouraged students to **join the program** for future benefits.
+
+✅ **Conclusion:**  
+Day 6 was filled with learning — from technical sessions on C++ and electrical laws to motivational and skill development talks that encouraged us to grow personally and professionally at GNE.
 
 
 
