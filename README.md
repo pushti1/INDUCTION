@@ -100,7 +100,6 @@ The seniors explained that the **Cosmic Club** is a platform where students can 
 Day 3 focused on **intellectual growth, ethical development, and community building**. The powerful lectures by **Dr. Jaswinder Singh** and **Dr. Priya Darshini** helped us understand how to become thoughtful engineers with values. The Cosmic Club introduction added an exciting layer to the day, reminding us that college life is also about creativity, collaboration, and contribution.
 
 # 🌟 Day 4 - Induction Program 
-
 ##  9:30 AM – 10:30 AM | Professional English Communication Lecture
 **Instructor:** Professor Nisha  
 **Location:** Room 107  
@@ -158,9 +157,7 @@ It gave us a clear view of **how we can grow beyond academics** by being involve
 ✅ **Overall Reflection:**
 Day 4 was a **perfect blend of academic learning and value-based growth**. From building communication skills to understanding our subjects better, and finally learning about human values and clubs—each session added something meaningful to our journey as freshers.
 
-#  Induction Program - Day 5 Summary (05 August 2025)
-##  Date: 5th August 2025  
-
+#🌟Day 5 Induction Program 
 ## 9:30 AM – 10:30 AM: Mathematics Lecture  
 **Room:** 107  
 **Faculty:** Prof. Sandeep Kaur  
