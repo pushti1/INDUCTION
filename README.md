@@ -229,7 +229,7 @@ Today was a productive and informative day. We explored three important subjects
 
 ## 11:30 AM – 12:30 PM | **Break**
 
-## ⏰ 12:30 PM – 2:00 PM | Motivational Talk – Auditorium
+##  12:30 PM – 2:00 PM | Motivational Talk – Auditorium
 
 **Speaker:** Arvind Dhingra Sir  
 **Designation:** Director, STEP In-Charge, TAC  
@@ -256,6 +256,60 @@ Today was a productive and informative day. We explored three important subjects
 
 ✅ **Conclusion:**  
 Day 6 was filled with learning — from technical sessions on C++ and electrical laws to motivational and skill development talks that encouraged us to grow personally and professionally at GNE.
+
+
+# 📅  Day 7 – Induction Program Report  
+## 9:30 AM – 10:30 AM | Session by Dr. Amit Kamra (In-charge, Digital Marketing Club)  
+### Dr. Amit Kamra introduced us to the **Digital Marketing Club (DMC)**, an initiative focused on equipping students with modern marketing tools and strategies relevant to the digital world. Key takeaways from the session:
+- Overview of **DMC’s goals and vision**.
+- Importance of digital marketing skills in today’s job market.
+- Opportunities for students to **gain real-world experience** through DMC projects.
+- Activities, workshops, and certifications offered by the club.
+- How DMC helps improve **communication, teamwork, creativity**, and **marketing acumen**.
+
+This was an inspiring session for students interested in entrepreneurship, marketing, and content creation.
+
+## 10:30 AM – 11:30 AM | Session by Mr. Parminder Singh (Dean, Student Welfare)  
+### Mr. Parminder Singh highlighted the various **student welfare initiatives** at GNDEC, including scholarships, campus facilities, and co-curricular activities. Key highlights:
+- **Scholarship programs** available for merit and need-based students.
+- Role of the **Dean’s office** in supporting student growth and well-being.
+- Overview of **student clubs and societies**, their benefits, and how to join them.
+- Emphasis on **all-round development** through participation in technical, cultural, and sports clubs.
+
+This session gave us a deeper understanding of the support system available on campus for students.
+
+##  11:30 AM – 12:30 PM | Session by Dr. Randhir Singh (Conduction of Examination) 
+Dr. Randhir Singh gave a detailed orientation on how examinations and academic processes are conducted at GNDEC. He explained the following:
+- Usage of the **GNE official portal** for:
+  - Checking internal and external marks.
+  - Paying semester and other college fees.
+  - Accessing **syllabi, timetables, and important announcements**.
+- Structure of internal assessments and university exams.
+- Importance of attendance and academic discipline.
+
+The session provided clarity on the digital infrastructure and academic monitoring at the college.
+
+## 12:30 PM – 1:30 PM | Lunch Break
+
+## 🕜 1:30 PM – 2:30 PM | English Lecture by Professor Nisha  
+**Venue:** Room No. 112  
+Professor Nisha conducted an insightful session introducing the **English syllabus for Semester 1 and Semester 2**. Key points included:
+- Topics and modules to be covered in both semesters.
+- Importance of communication skills, report writing, and presentation skills.
+- Overview of assignments to be completed during both semesters.
+- Relevance of English in professional communication and placements.
+
+This session highlighted the role of English in shaping our academic and professional journey.
+
+##  2:30 PM – 3:30 PM | Chemistry Lecture by Professor Rajveer Kaur  
+**Venue:** Room No. 112  
+Professor Rajveer Kaur introduced us to the **Semester 1 Chemistry syllabus**, focusing on the relevance of Chemistry in engineering. The session covered:
+- Unit 1: **Water** – Introduction and basic discussion.
+- Importance of water treatment, hardness of water, and industrial applications.
+- Brief discussion on upcoming topics like polymers, spectroscopy, and corrosion.
+
+## ✅ Summary  
+Today’s induction sessions helped us understand not only the **academic structure**, but also the **co-curricular ecosystem** at GNDEC. From **Digital Marketing skills** to **examination portals**, and from **communication essentials** to **engineering chemistry basics**, the day was full of learning and new experiences.
 
 
 
