@@ -99,7 +99,7 @@ The seniors explained that the **Cosmic Club** is a platform where students can 
 ## ✅ Summary
 Day 3 focused on **intellectual growth, ethical development, and community building**. The powerful lectures by **Dr. Jaswinder Singh** and **Dr. Priya Darshini** helped us understand how to become thoughtful engineers with values. The Cosmic Club introduction added an exciting layer to the day, reminding us that college life is also about creativity, collaboration, and contribution.
 
-# 🌟 Day 4 - Induction Program (Date: [04-08-2025])
+# 🌟 Day 4 - Induction Program 
 
 ##  9:30 AM – 10:30 AM | Professional English Communication Lecture
 **Instructor:** Professor Nisha  
@@ -129,6 +129,7 @@ We had a one-hour break to relax and refresh ourselves before the next session.
 **Location:** Auditorium  
 **For:** students IT ANS CS BRANCH
 
+![Image](https://github.com/user-attachments/assets/55c0ac06-6c02-468b-9765-b739b466d9f0)
 After the break, we gathered in the **auditorium** for an **expert lecture on Universal Human Values – 2** by **Dr. Darshi Madam**.  
 In today’s session, we learned that **real happiness** comes from **inner harmony**, not from temporary excitement like food, entertainment, or praise.
 Dr. Darshi Ma'am explained that we all have three key needs:
@@ -145,7 +146,7 @@ Our thoughts are shaped by:
 When guided by natural acceptance, we stay **peaceful and happy**.  
 But if driven only by preconditioning or sensation, we may feel **confused or unhappy**.
 
-## 🕝 2:30 PM – 3:30 PM | Cosmic Club Session  
+## 2:30 PM – 3:30 PM | Cosmic Club Session  
 **Conducted By:** Our Seniors  
 **Location:** Auditorium
 
@@ -157,7 +158,7 @@ It gave us a clear view of **how we can grow beyond academics** by being involve
 ✅ **Overall Reflection:**
 Day 4 was a **perfect blend of academic learning and value-based growth**. From building communication skills to understanding our subjects better, and finally learning about human values and clubs—each session added something meaningful to our journey as freshers.
 
-# 🌟 Induction Program - Day 5 Summary (05 August 2025)
+#  Induction Program - Day 5 Summary (05 August 2025)
 ##  Date: 5th August 2025  
 
 ## 9:30 AM – 10:30 AM: Mathematics Lecture  
