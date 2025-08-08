@@ -1,5 +1,5 @@
-# 🌟Day 1 - Induction Program Summary 
-## TIME ⏲ 8:30 to 9:30
+# 🌟Day 1 - Induction Program 
+## TIME ⏲ 8:30 to 9:30 AM
 ![Image](https://github.com/user-attachments/assets/d09d4b63-18b5-4c07-823c-6003811adf5c)
 - We started our first day of college by visiting **Gurudwara Sahib**.It was a beautiful and peaceful way to begin our journey.
   
