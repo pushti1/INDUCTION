@@ -78,6 +78,7 @@ Dr. Singh emphasized the strong connection between what we eat and how we feel�
 Day 2 was packed with both **academic evaluation** and **meaningful learning opportunities**. From proficiency tests to scholarship awareness and health guidance, the day truly reflected the balanced approach GNE takes toward student growth.
 
 # 🌟DAY 3 OF INDUCTION PROGRAM
+
 ## 9:00 AM – 11:00 AM: Expert Lecture by Dr. Jaswinder Singh (In-charge, IAPT)
 ![Image](https://github.com/user-attachments/assets/491628aa-c2a0-4b46-af51-a0cb4ed1e15d)
 The day began with an inspiring expert lecture by **Dr. Jaswinder Singh**, the In-charge of **Indian Association of Physics Teachers (IAPT)**. All students from **CSE and IT branches** assembled in the **auditorium** to attend this interactive session.
@@ -100,6 +101,7 @@ The seniors explained that the **Cosmic Club** is a platform where students can 
 Day 3 focused on **intellectual growth, ethical development, and community building**. The powerful lectures by **Dr. Jaswinder Singh** and **Dr. Priya Darshini** helped us understand how to become thoughtful engineers with values. The Cosmic Club introduction added an exciting layer to the day, reminding us that college life is also about creativity, collaboration, and contribution.
 
 # 🌟 Day 4 - Induction Program 
+
 ##  9:30 AM – 10:30 AM | Professional English Communication Lecture
 **Instructor:** Professor Nisha  
 **Location:** Room 107  
@@ -157,7 +159,8 @@ It gave us a clear view of **how we can grow beyond academics** by being involve
 ✅ **Overall Reflection:**
 Day 4 was a **perfect blend of academic learning and value-based growth**. From building communication skills to understanding our subjects better, and finally learning about human values and clubs—each session added something meaningful to our journey as freshers.
 
-#🌟Day 5 Induction Program 
+# 🌟Day 5 Induction Program 
+
 ## 9:30 AM – 10:30 AM: Mathematics Lecture  
 **Room:** 107  
 **Faculty:** Prof. Sandeep Kaur  
@@ -184,9 +187,9 @@ Day 4 was a **perfect blend of academic learning and value-based growth**. From 
 
 ##  11:30 AM – 12:30 PM: BEEE (Basic Electrical and Electronics Engineering) Lecture  
 **Room:** 107  
-**Faculty:** Prof. Sukpal Singh  
+**Faculty: Prof. Sukhpal Singh**
 
-- Prof. Sukpal Singh started with the **course overview**.
+- Prof. Sukhpal Singh started with the **course overview**.
 - Discussed:
   - **Syllabus coverage**.
   - **Recommended books and reference materials**.
@@ -198,11 +201,9 @@ Day 4 was a **perfect blend of academic learning and value-based growth**. From 
 Today was a productive and informative day. We explored three important subjects – Maths, Programming (C++), and BEEE. Each session gave a glimpse of what lies ahead in our curriculum and motivated us to stay consistent and curious.
 
 
-# 📅 Induction Day 6 Summary – GNDEC
-**Date:** 6th August 2025  
+#  🌟Induction Day 6
 
 ##  9:30 AM – 10:30 AM | P2P Lecture – Room No. 109
-
 **Conducted by:** Seniors  
 **Topic:** Introduction to C++  
 **What was covered:**
@@ -213,8 +214,8 @@ Today was a productive and informative day. We explored three important subjects
 - Loops (for, while)
 - Basic C++ syntax
 
-## 10:30 AM – 11:30 AM | BEE (TRIPOLI) Lecture – Room No. 109
-**Instructor:** Prof. Sukpal Singh  
+## 10:30 AM – 11:30 AM | BEE  Lecture – Room No. 109
+**Instructor:** Prof. Sukhpal Singh  
 **Topics Discussed:**
 - **Ohm’s Law**
 - **Kirchhoff’s Current Law (KCL)** & **Kirchhoff’s Voltage Law (KVL)**
@@ -256,8 +257,9 @@ Today was a productive and informative day. We explored three important subjects
 Day 6 was filled with learning — from technical sessions on C++ and electrical laws to motivational and skill development talks that encouraged us to grow personally and professionally at GNE.
 
 
-# 📅  Day 7 – Induction Program Report  
-## 9:30 AM – 10:30 AM | Session by Dr. Amit Kamra (In-charge, Digital Marketing Club)  
+# 🌟 Day 7 – Induction Program Report  
+
+## 9:30 AM – 10:30 AM | Session by Dr. Amit Kamra (In-charge, Digital Marketing Club) 
 ### Dr. Amit Kamra introduced us to the **Digital Marketing Club (DMC)**, an initiative focused on equipping students with modern marketing tools and strategies relevant to the digital world. Key takeaways from the session:
 - Overview of **DMC’s goals and vision**.
 - Importance of digital marketing skills in today’s job market.
@@ -310,6 +312,47 @@ Professor Rajveer Kaur introduced us to the **Semester 1 Chemistry syllabus**, f
 Today’s induction sessions helped us understand not only the **academic structure**, but also the **co-curricular ecosystem** at GNDEC. From **Digital Marketing skills** to **examination portals**, and from **communication essentials** to **engineering chemistry basics**, the day was full of learning and new experiences.
 
 
+# 🌟Day 8 – Induction Program 
 
+##  9:00 AM – 10:30 AM | Mathematics Lecture by Professor Sandeep Gill 
+**Venue:** Room No. 107  
 
+The session was conducted by **Professor Sandeep Gill**, focusing on the topic of **Differential Equations**. Key highlights from the lecture:
+- **Recap of Class 12 Concepts:**  
+  - Sir/Ma’am revised the basics of differential equations from Class 12 to ensure everyone was on the same page.  
+  - Discussed the **definition** and **importance** of differential equations in mathematics and engineering.
+- **Illustrative Examples:**  
+  - Solved several examples on the board to demonstrate various solution techniques.  
+  - Encouraged students to solve practice problems during the class.  
+- **Practice Problems:**  
+  - Shared additional problems for self-practice.  
+  - These included both basic and slightly advanced examples to strengthen our conceptual understanding.
 
+##  10:30 AM – 12:00 PM | Coding & IT Orientation by Professor Jaswant Singh  
+**Venue:** Mechanical Seminar Hall  
+**Participants:** ITB and ITC students  
+
+This interactive session by **Professor Jaswant Singh** was aimed at giving first-year IT students an overview of the **Information Technology field** and the role of **coding** in our careers. Key points covered:
+- **What is a Program?**  
+  - Explanation of what a computer program is and how it functions.  
+  - Discussed the relationship between programs, coding, and problem-solving.
+- **What is Coding?**  
+  - Defined coding as the process of writing instructions for computers to perform specific tasks.  
+  - Shared real-world examples of how coding impacts our daily lives.
+- **Why Choose IT?**  
+  - Discussed the **advantages of the IT branch** and its career opportunities.  
+  - Emphasized the demand for skilled coders and software developers in the modern job market.
+- **Learning Resources & Recommendations:**  
+  - Suggested documentaries and learning materials to help students understand technology and programming better.  
+  - Encouraged continuous learning and skill development alongside academic coursework.
+- **Motivation for the Future:**  
+  - Shared insights on how to succeed in the IT branch.  
+  - Motivated students to take coding seriously from the very beginning of their college journey.
+
+The session was an **eye-opener** for many students, providing clarity on the significance of coding and the scope of IT as a career path.
+
+## ✅ Summary  
+Day 8 of the induction program was highly productive.  
+- The **Mathematics lecture** strengthened our understanding of differential equations through examples and practice.  
+- The **IT orientation** inspired us to view coding not just as a subject, but as a skill essential for our future careers.  
+Overall, the day balanced **technical learning** with **career guidance**, helping us start our IT journey with focus and motivation.
