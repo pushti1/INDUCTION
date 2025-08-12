@@ -356,3 +356,81 @@ Day 8 of the induction program was highly productive.
 - The **Mathematics lecture** strengthened our understanding of differential equations through examples and practice.  
 - The **IT orientation** inspired us to view coding not just as a subject, but as a skill essential for our future careers.  
 Overall, the day balanced **technical learning** with **career guidance**, helping us start our IT journey with focus and motivation.
+
+# 🌟Induction Program — Day 9
+## 08:30 — 09:30 | Chemistry Practical (Chemistry Lab)
+**Instructor:** Karan Bhallasar  
+**Summary:**
+- Conducted the first chemistry practical session of the induction period
+- Revised basic chemistry concepts from school level for a quick refresher
+- Learned how to calculate molecular formulas and balance equations
+- Discussed the importance of correct formula writing in experiments
+- Understood the marking scheme for practicals and how credits are awarded
+- Got a brief introduction to lab safety rules and the use of apparatus like burettes, pipettes, and beakers
+
+### 10:30 — 11:30 | Professional English Communication (Room F113)
+- Seniors handed over the results of the English and Maths proficiency tests
+- Discussed how to interpret test scores and areas for improvement
+- Learned in detail how CGPA is calculated and its importance in academic performance
+- Asked a few questions about internal assessments and final grading policies
+
+### 11:30 — 12:30 | Break
+- Interacted with classmates, shared thoughts on the morning sessions
+- Discussed the upcoming debate topic casually with team members
+
+### 12:30 — 13:30 | Basic Electrical & Electronics Engineering (Room 1066)
+**Instructor:** Sukpal Singh  
+**Summary:**
+- Introduced to basic electrical definitions like voltage, current, and resistance
+- Learned the difference between conductors, semiconductors, and insulators
+- Practiced a couple of simple numerical problems to understand Ohm’s Law
+- Understood how these basics will be applied in upcoming practicals and projects
+
+### 13:30 — 14:30 | Professional English Communication Practical (English Lab)
+- Seniors initiated a self-introduction round where everyone spoke about themselves briefly
+- Shared my name, background, hobbies, and interests with the class
+- Participated in the debate session:
+  - Opposite team: *Social media is good (benefits)*
+  - My team: *Social media is harmful for this generation*
+- Contributed points on how excessive use of social media affects mental health, productivity, and real-life interactions
+- Managed to speak confidently despite being an introvert, maintaining eye contact with the audience
+- Encouraged my teammates by nodding and supporting their arguments during the debate
+
+## 💭 Personal Reflection
+Today was one of the most interactive days so far. I not only learned academic content but also built confidence in speaking in front of others. Representing my team in the debate was a proud moment for me as it showed me I could overcome my hesitation. The combination of practicals, lectures, and soft skill activities made the day balanced and productive.
+
+
+# 🌟Induction Program — Day 10
+## 08:30 — 10:30 | Basic Electrical & Electronics Engineering Practical (VEEE Lab)
+**Instructor:** Sukpal Singh  
+**Summary:**
+- First BEEE practical session in the lab
+- Learned about the practical exam marking scheme and how performance will be assessed
+- Sir emphasized the importance of maintaining a detailed **lab file** to document experiments and results
+- Understood expectations for lab work: neatness, accuracy, and proper procedure
+- Observed some lab equipment and got a brief on safety measures for handling them
+
+### 10:30 — 11:30 | Mathematics Lecture (Room 106)
+**Instructor:** N. H. Bhumani  
+**Summary:**
+- Introduction to the mathematics syllabus for the semester
+- Sir recommended a few reference books for deeper understanding
+- Discussed upcoming topics, starting with **limits** and **differential equations**
+- Solved two sample problems given by sir, both understood easily by the class
+- Encouraged us to regularly practice so that concepts become second nature
+
+### 11:30 — 12:30 |  Break
+- Took a break to relax and refresh before the afternoon session
+- Casual discussions with classmates about the morning topics
+
+### 12:30 — 14:30 | Programming for Problem Solving Practical (Computational Lab, EE Department)
+**Instructor:** Kamaljeet Kaur  
+**Summary:**
+- Teacher explained the exam marking scheme and the structure of internal assessments
+- Covered essential guidelines every student must follow in practical sessions
+- Discussed the basics of computers: hardware, software, and their interaction
+- Introduction to the computational lab environment and coding setup
+- Talked briefly about what we’ll be learning in programming over the semester
+
+## 💭 Personal Reflection
+The day was a good mix of practical and theoretical learning. I now have a clearer idea of expectations in both labs and lectures. The practical sessions helped me understand the importance of preparation, while the Maths and Programming lectures set a strong foundation for upcoming topics.
